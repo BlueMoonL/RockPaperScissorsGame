@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/com_gawe"
+        android:duration="100"
+        />
+    <item
+        android:drawable="@drawable/com_bawe"
+        android:duration="100"
+        />
+    <item
+        android:drawable="@drawable/com_bo"
+        android:duration="100"
+        />
+
+</animation-list>
